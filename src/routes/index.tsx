@@ -26,7 +26,7 @@ function Index() {
         <div className="mx-auto max-w-6xl px-6 py-16 md:py-24">
           <div className="flex flex-wrap items-end justify-between gap-6 font-mono text-[11px] uppercase tracking-[0.25em] text-muted-foreground animate-rise" style={{ animationDelay: "0ms" }}>
             <div>Vol. 01 · Wednesday, July 1, 2026</div>
-            <div>Five essays · No ads · No autoplay</div>
+            <div>Five essays · No autoplay</div>
           </div>
 
           <h1 className="mt-10 max-w-5xl font-display text-[13vw] font-light leading-[0.9] tracking-[-0.04em] text-foreground animate-rise sm:text-[10vw] md:text-[8.5rem]" style={{ animationDelay: "120ms" }}>
